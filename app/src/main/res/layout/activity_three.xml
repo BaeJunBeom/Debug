@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Three">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="3번째 엑티비티"
+        android:textSize="30dp"
+        android:layout_gravity="center"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top|center"
+        android:layout_marginTop="-1100dp"
+        android:src="@drawable/qwe"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="-400dp"
+        android:textSize="30dp"
+        android:text="                    병합해보기"
+        android:textColor="@color/pink"
+        android:textStyle="italic"/>
+
+    <Button
+        android:id="@+id/three"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:text="처음화면으로"
+        android:textSize="30dp"
+        android:textStyle="italic"/>
+
+</LinearLayout>

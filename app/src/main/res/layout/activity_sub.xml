@@ -11,7 +11,7 @@
 
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="40dp"
+        android:layout_height="41dp"
         android:text="2번째 새로 만든화면"
         android:layout_gravity="center"
         android:textColor="@color/colorAccent"

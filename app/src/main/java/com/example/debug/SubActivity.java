@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class SubActivity extends AppCompatActivity {
-// 2번째 커밋
+// 2번째 커밋1
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

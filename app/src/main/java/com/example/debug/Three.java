@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class Three extends AppCompatActivity {
-// 3번째 커밋
+// 3번째 커밋1
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

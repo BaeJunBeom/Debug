@@ -25,7 +25,7 @@
         android:text="버 튼"
         android:textColor="@color/colorAccent"
         android:textSize="35dp"/>
-
+// test
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"

@@ -8,6 +8,7 @@
     android:orientation="vertical"
     tools:context=".SubActivity">
 
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="40dp"
@@ -23,7 +24,12 @@
         android:layout_height="wrap_content"
         android:text="버 튼"
         android:textColor="@color/colorAccent"
-        android:textSize="30dp"/>
+        android:textSize="35dp"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/qwe"/>
 
 
 </LinearLayout>

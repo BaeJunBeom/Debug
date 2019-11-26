@@ -11,7 +11,7 @@
        android:layout_height="wrap_content"
        android:textSize="30dp"
        android:textColor="@color/colorPrimary"
-       android:text="엑티비티 전환"/>
+       android:text="엑티비티 전환 시작"/>
 
     <Button
         android:layout_marginTop="60dp"

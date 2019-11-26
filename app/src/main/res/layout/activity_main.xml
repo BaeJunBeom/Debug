@@ -22,4 +22,6 @@
         android:textColor="@color/colorAccent"
         android:textSize="30dp"/>
 
+    //첫번째 커밋
 </RelativeLayout>
+

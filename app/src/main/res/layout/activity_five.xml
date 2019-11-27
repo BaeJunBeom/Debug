@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Four">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="5번째 엑티비티 전환"
+        android:textSize="30dp"
+        android:layout_gravity="center"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/qwe"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="엑티비티는 쉽다."
+        android:textSize="30dp"
+        android:textColor="@color/remon"
+        android:layout_marginTop="150dp"/>
+    <Button
+        android:id="@+id/fiveactivity"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="버 튼"
+        android:textSize="35dp"
+        android:textColor="@color/green"
+        android:layout_marginTop="50dp"/>
+
+
+</RelativeLayout>

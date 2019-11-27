@@ -28,7 +28,7 @@
         android:layout_height="40dp"
         android:layout_marginTop="-400dp"
         android:textSize="30dp"
-        android:text="                    병합해보기"
+        android:text=" 4번째로 가즈아!"
         android:textColor="@color/pink"
         android:textStyle="italic"/>
 

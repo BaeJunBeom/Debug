@@ -11,7 +11,7 @@
 
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="41dp"
+        android:layout_height="42dp"
         android:text="2번째 새로 만든화면"
         android:layout_gravity="center"
         android:textColor="@color/colorAccent"
@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:text="버 튼"
         android:textColor="@color/colorAccent"
-        android:textSize="35dp"/>
+        android:textSize="34dp"/>
 
     <ImageView
         android:layout_width="match_parent"

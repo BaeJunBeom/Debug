@@ -18,7 +18,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".SubActivity" />
-        <activity android:name=".Three"></activity>
+        <activity android:name=".Three" />
+        <activity android:name=".Four" />
+        <activity android:name=".Five"/>
     </application>
 
 </manifest>
